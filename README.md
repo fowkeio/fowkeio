@@ -1,8 +1,8 @@
 ## Hi, I'm Fowke!
 <img src="https://komarev.com/ghpvc/?username=fowkeio&style=flat&color=yellowgreen" alt="fowkeio"/> 
 <div>
-  <a href="https://github.com/fokwieo">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fowkeio&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" style="max-width:50%;"/>
+  <a href="https://github.com/fowkeio">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fowkeio&theme=gruvbox&show_icons=true" style="max-width:50%;"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fowkeio&layout=compact&langs_count=7&theme=gruvbox" style="max-width:50%;"/>
 </div>
 
