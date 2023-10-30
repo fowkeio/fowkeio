@@ -16,5 +16,5 @@
   </div>
   <p><div>
     <img align="center" alt="bsd-demon" height="256" width="256" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemR0cGdvOTFub3Y1YXF4aHJ0MDkzZGlpenBncjhkcWJoZ3p4OWJ6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dDwicM3uFUqfC/giphy.gif">
-    <img align="center" alt="Fowke-coding" src="https://media.giphy.com/media/fsoCk5kgOcYMM/giphy-downsized-large.gif">
+    <img align="center" alt="Fowke-coding" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FiNDNua2l5Z25nNWRlYXZyazdwMWtlbWhyaGdjMmQyemp1MWJ5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KmHueA88mFABT9GkkR/giphy.gif">
   </div></p>
