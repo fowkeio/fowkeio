@@ -2,8 +2,8 @@
 <img src="https://komarev.com/ghpvc/?username=turtle-daemon&style=flat&color=yellowgreen" alt="turtle-daemon"/> 
 <div>
   <a href="https://github.com/turtle-daemon">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=turtle-daemon&theme=gruvbox&show_icons=true" style="max-width:50%;"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turtle-daemon&layout=compact&langs_count=7&theme=gruvbox" style="max-width:50%;"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=turtle-daemon&theme=dark&show_icons=true" style="max-width:50%;"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turtle-daemon&layout=compact&langs_count=7&theme=dark" style="max-width:50%;"/>
 </div>
 
 ### What do I study?
